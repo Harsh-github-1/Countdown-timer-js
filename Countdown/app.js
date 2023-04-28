@@ -27,4 +27,4 @@ setInterval(
     }, 1000
 )
 
-zn, , ,/ x xx
+zn, , ,/ x 
