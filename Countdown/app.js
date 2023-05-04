@@ -27,4 +27,3 @@ setInterval(
     }, 1000
 )
 
-s
