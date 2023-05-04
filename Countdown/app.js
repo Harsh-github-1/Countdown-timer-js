@@ -27,4 +27,4 @@ setInterval(
     }, 1000
 )
 
-sfvdsfb bsdgn
+sfvdsfb bs
