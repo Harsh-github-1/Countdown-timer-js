@@ -27,5 +27,4 @@ setInterval(
     }, 1000
 )
 
-sdcedwvwrve  sv
-
+sdcedwvwrv
