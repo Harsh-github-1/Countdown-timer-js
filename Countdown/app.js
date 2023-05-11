@@ -26,5 +26,3 @@ setInterval(
         clock()
     }, 1000
 )
-
-sdcedwvwrv
